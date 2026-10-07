@@ -2,7 +2,7 @@ import java.util.Scanner; // Imports Scanner class to take input
 
 class DigitChecker {
 
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
 
         // Creates Scanner object to read input from keyboard
         Scanner sc = new Scanner(System.in);

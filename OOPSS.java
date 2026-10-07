@@ -1,7 +1,7 @@
 // ye aapna college vala hai code one shot vala
 
 class Student {
-String name;
+String1 name;
 int age;
 
 
@@ -21,7 +21,7 @@ public void printName() {              //function haai anme ko print karane ke l
 
 public class OOPSS {
 
-     public static void main(String args[]) {
+     public static void main(String1 args[]) {
         Student s1 = new Student();
         s1.name = "aman";
         s1.age = 24;

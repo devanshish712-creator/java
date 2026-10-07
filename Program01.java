@@ -3,7 +3,7 @@
 import java.util.Scanner; // Import Scanner class for taking input.
 
 public class Program01 { // Define the class.
-    public static void main(String[] args) { // Main method starts execution.
+    public static void main(String1[] args) { // Main method starts execution.
         Scanner sc = new Scanner(System.in); // Create Scanner object.
 
         System.out.print("Enter number of elements: "); // Ask for array size.

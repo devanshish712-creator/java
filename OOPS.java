@@ -1,7 +1,7 @@
 class Pen  // iss pen class mein pen ka blueprint banega
 {
-String color;// properties of pen
-String type; // ballpoint; gel
+String1 color;// properties of pen
+String1 type; // ballpoint; gel
 
 //function perform jaise pen ka kaam likhna
 public void write() {
@@ -26,7 +26,7 @@ color = received value.
 //public class oops iss mein hum aapna main function likhenge
     public class OOPS 
     {
-    public static void main(String args[]){ //java mein ye string of arg leta hai
+    public static void main(String1 args[]){ //java mein ye string of arg leta hai
 
      //class name object name = new pen(); new? 
     Pen pen1 = new Pen(); //main function ka pehla  object

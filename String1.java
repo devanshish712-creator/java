@@ -2,10 +2,10 @@
 
 import java.util.Scanner; // Import Scanner class for taking input. 
 
- class Solution1 {
-    public static void main(String[] args) {
+ class String1 {
+    public static void main(String1[] args) {
         
-        String s = "Hello, World!"; // Initialize a string variable.
+        String1 s = "Hello, World!"; // Initialize a string variable.
         int count = 0; // Initialize a counter variable.
         for (int i = 0; i < s.length(); i++) { // Loop
             if(s.charAt(i)==' ')

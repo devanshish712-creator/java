@@ -1,7 +1,7 @@
 import java.util.*;
 // array user se inpuit lekar kaise banayenge
 public class Array {
-    public static void main(String args[]) {
+    public static void main(String1 args[]) {
      Scanner sc = new Scanner(System.in);
      int size = sc.nextInt(); //int size input
     int numbers[] = new int[size];
